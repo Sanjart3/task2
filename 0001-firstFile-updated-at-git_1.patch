@@ -1,0 +1,29 @@
+From 30765f8895c86e208eaf8f529aa6c8e964f19292 Mon Sep 17 00:00:00 2001
+From: Sanjar Totliboyev <sanjartotliboyev@gmail.com>
+Date: Wed, 10 Jul 2024 14:27:19 +0500
+Subject: [PATCH] firstFile updated at git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 669098f..c257acb 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,10 +1,10 @@
+ My
+-name
++name (fullname)
+ is
+ Sanjar
+ Totliboyev,
+ I
+ am
+ a
+-Java
++Java (Backend)
+ Developer
+-- 
+2.15.0
+

@@ -1,10 +1,10 @@
 My
-name
+name (fullname)
 is
-Sanjar
+Sanjar (given by GrandFather)
 Totliboyev,
 I
 am
 a
-Java
-Developer
+Java (Backend)
+Developer (coder)
