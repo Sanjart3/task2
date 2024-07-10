@@ -1,10 +1,10 @@
 My
-name
+name (fullname)
 is
 Sanjar
 Totliboyev,
 I
 am
 a
-Java
+Java (Backend)
 Developer
