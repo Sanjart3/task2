@@ -3,8 +3,8 @@ name (fullname)
 is
 Sanjar (given by GrandFather)
 Totliboyev,
-I
+I (currently learning git advanced)
 am
 a
-Java (Backend)
+Java (Backend) (uses Spring)
 Developer (coder)
